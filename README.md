@@ -109,8 +109,8 @@ Created business-ready views:
 ---
 
 ## 📸 Screenshots
-![Stagin Area](images/staging-package.png)
-![DWH](DWH.png)
+![Stagin Area](images/stagin/staging-package.png)
+![DWH](images/DWH/DWH.png)
 
 
 ---
