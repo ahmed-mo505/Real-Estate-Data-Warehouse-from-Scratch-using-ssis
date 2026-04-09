@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.RealEstate_Staging"
+  DTS:DTSID="{CA44A6F5-9F44-4293-B86E-E20A4A51C18F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=RealEstate_Staging;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-RealEstate_project-{CA44A6F5-9F44-4293-B86E-E20A4A51C18F}LocalHost.RealEstate_Staging;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

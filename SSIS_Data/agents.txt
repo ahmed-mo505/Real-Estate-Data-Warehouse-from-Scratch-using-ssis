@@ -1,0 +1,21 @@
+agent_id|agent_name|agency|specialization|country|phone|email|hire_date|active|experience_years
+1|Ahmed Hassan|ERA Real Estate|Rental|UK|+599288057824|ahmed.hassan@erareale.com|2021-06-12|Y|10
+2|Sara Ibrahim|Engel & Völkers|Residential|EG|+107456062427|sara.ibrahim@engelvöl.com|2018-10-24|Y|18
+3|Mohamed Ali|Engel & Völkers|Rental|UAE|+898626138802|mohamed.ali@engelvöl.com|2022-08-23|N|20
+4|Nour Mostafa|JLL|Residential|UAE|+94011528431|nour.mostafa@jll.com|2018-07-17|N|13
+5|Khaled Omar|Coldwell Banker|Luxury|UK|+375694439775|khaled.omar@coldwell.com|2022-07-22|Y|4
+6|Layla Smith|Century 21|Investment|UAE|+467759044245|layla.smith@century2.com|2017-01-18|Y|17
+7|Omar Johnson|ERA Real Estate|Commercial|UAE|+271984438848|omar.johnson@erareale.com|2017-10-19|Y|6
+8|Hana Williams|RE/MAX|Residential|SA|+795114549022|hana.williams@re/max.com|2020-05-29|Y|12
+9|James Brown|Sotheby's|Luxury|SA|+246498703287|james.brown@sotheby'.com|2017-06-28|Y|3
+10|Emma Jones|CBRE|Investment|EG|+57453081889|emma.jones@cbre.com|2019-06-01|Y|16
+11|Oliver Garcia|Engel & Völkers|Investment|UAE|+891036157653|oliver.garcia@engelvöl.com|2022-07-24|Y|14
+12|Sophia Martinez|Savills|Luxury|EG|+342128928014|sophia.martinez@savills.com|2018-01-08|N|12
+13|Liam Davis|JLL|Investment|UK|+546894024976|liam.davis@jll.com|2019-06-29|Y|16
+14|Ava Wilson|Century 21|Rental|UK|+138390846127|ava.wilson@century2.com|2017-08-23|N|14
+15|Noah Taylor|Century 21|Investment|US|+237105384790|noah.taylor@century2.com|2016-07-04|Y|17
+16|Isabella Anderson|Engel & Völkers|Rental|US|+511701548051|isabella.anderson@engelvöl.com|2017-06-01|Y|17
+17|Yusuf Al-Rashid|RE/MAX|Investment|UAE|N/A|yusuf.al-rashid@re/max.com|2021-04-14|Y|13
+18|Fatima Al-Mansouri|RE/MAX|Luxury|EG|+263312574703|fatima.al-mansouri@re/max.com|2018-03-11|Y|12
+19|Ali Khan|JLL|Investment|US|+497930633125|ali.khan@jll.com|2020-03-14|Y|7
+20|Maryam Patel|Savills|Investment|EG|+744895849088|maryam.patel@savills.com|2015-11-21|Y|12
